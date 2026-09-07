@@ -8,19 +8,19 @@ This repository contains the full numerical pipeline, experimental data processi
 
 ## Table of Contents
 
-* [Overview](https://www.google.com/search?q=%23overview)
-* [Physical Problem](https://www.google.com/search?q=%23physical-problem)
-* [Repository Structure](https://www.google.com/search?q=%23repository-structure)
-* [Data Files](https://www.google.com/search?q=%23data-files)
-* [Numerical Methods](https://www.google.com/search?q=%23numerical-methods)
-* [MDAO Parameter Identification](https://www.google.com/search?q=%23mdao-parameter-identification-casadi--ipopt)
-* [Validation Pipeline](https://www.google.com/search?q=%23validation-pipeline)
-* [Key Results](https://www.google.com/search?q=%23key-results)
-* [Installation & Requirements](https://www.google.com/search?q=%23installation--requirements)
-* [Usage](https://www.google.com/search?q=%23usage)
-* [Figures & Plots](https://www.google.com/search?q=%23figures--plots)
-* [References](https://www.google.com/search?q=%23references)
-* [License](https://www.google.com/search?q=%23license)
+* [Overview]
+* [Physical Problem]
+* [Repository Structure]
+* [Data Files]
+* [Numerical Methods]
+* [MDAO Parameter Identification]
+* [Validation Pipeline]
+* [Key Results]
+* [Installation and Requirements]
+* [Usage]
+* [Figures and Plots]
+* [References]
+* [License]
 
 ---
 
