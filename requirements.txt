@@ -1,0 +1,20 @@
+# ------------------------------------------------------------------------------
+# Python dependencies for PCB TVAC Thermal Modeling
+# ------------------------------------------------------------------------------
+# Tested with Python 3.13
+# Install: pip install -r requirements.txt
+# ------------------------------------------------------------------------------
+
+# Core numerical stack
+numpy>=1.26              # array ops, interpolation, cross-correlation
+scipy>=1.13              # sparse matrix solver (spsolve), linear algebra
+pandas>=2.2              # Excel data ingestion, DataFrame manipulation
+
+# Plotting
+matplotlib>=3.8          # all thermal transient and error plots
+
+# Optimization (MDAO)
+casadi>=3.6              # symbolic differentiable model + IPOPT interface
+
+# I/O
+openpyxl>=3.1            # Excel (.xlsx) read engine for pandas
