@@ -90,7 +90,6 @@ Experiments conducted at the **Center for Nanosatellite Testing (CeNT)**, Kyushu
 │   ├── PCB_Rad_Summary.xlsx      # Experimental TVAC telemetry (thermocouples, shroud, power)
 │   ├── Power_Green_White.xlsx     # Raw electrical power supply data
 │   └── SimcenterData.xlsx         # Simcenter 3D FEM exported results (Central & Corner sheets)
-├── figures/                       # Generated plots and figures (optional, auto-saved)
 ├── README.md                      # This file
 └── requirements.txt               # Python dependencies
 
